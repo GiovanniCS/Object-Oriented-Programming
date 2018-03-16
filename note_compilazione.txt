@@ -1,0 +1,3 @@
+Non e' necessaria la generazione del file di progetto (.pro) in quanto gia' presente.
+Questa scelta e' dovuta al fatto che qmake non aggiunge automaticamente tutti i moduli
+della libreria necessari, provocando un errore in fase di compilazione.

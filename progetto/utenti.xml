@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<utenti>
+    <premium>
+        <username>Premium</username>
+        <password>Premium</password>
+    </premium>
+    <base>
+        <username>Base</username>
+        <password>Base</password>
+    </base>
+    <amministratore>
+        <username>Admin</username>
+        <password>Admin</password>
+    </amministratore>
+    <base>
+        <username>prova</username>
+        <password>prova</password>
+    </base>
+</utenti>

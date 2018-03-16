@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clienti>
+    <hotel>
+        <nome>Mario</nome>
+        <cognome>Rossi</cognome>
+        <codice_fisc>MRIRSS74O94D486B</codice_fisc>
+        <indirizzo>
+            <via>Dante Alighieri</via>
+            <numero>4</numero>
+            <citta>Padova</citta>
+            <stato>Italia</stato>
+            <prov>PD</prov>
+        </indirizzo>
+        <date>
+            <data min="0" ora="11" giorno="2" mese="1" anno="2017"/>
+            <data min="0" ora="10" giorno="7" mese="1" anno="2017"/>
+        </date>
+        <servizi>
+            <idromassaggio>
+                <data min="0" ora="15" giorno="4" mese="1" anno="2017"/>
+                <tipo></tipo>
+            </idromassaggio>
+            <massaggio>
+                <data min="30" ora="17" giorno="4" mese="1" anno="2017"/>
+                <tipo>Tailandese</tipo>
+            </massaggio>
+        </servizi>
+        <scontrini>
+            <scontrino>
+                <data min="0" ora="13" giorno="3" mese="1" anno="2017"/>
+                <persone>2</persone>
+                <totale>129.6</totale>
+            </scontrino>
+            <scontrino>
+                <data min="0" ora="11" giorno="4" mese="1" anno="2017"/>
+                <persone>4</persone>
+                <totale>311</totale>
+            </scontrino>
+        </scontrini>
+    </hotel>
+    <spa>
+        <nome>Luca</nome>
+        <cognome>Verdi</cognome>
+        <codice_fisc>LCAVRD46T05A743B</codice_fisc>
+        <indirizzo>
+            <via>Luigi Luzzati</via>
+            <numero>8</numero>
+            <citta>Ponte di Brenta</citta>
+            <stato>Italia</stato>
+            <prov>PD</prov>
+        </indirizzo>
+        <servizi>
+            <sauna>
+                <data min="0" ora="11" giorno="26" mese="1" anno="2017"/>
+                <tipo></tipo>
+            </sauna>
+            <Piscina>
+                <data min="0" ora="15" giorno="26" mese="1" anno="2017"/>
+                <tipo></tipo>
+            </Piscina>
+            <palestra>
+                <data min="35" ora="13" giorno="27" mese="1" anno="2017"/>
+                <tipo></tipo>
+            </palestra>
+            <massaggio>
+                <data min="0" ora="18" giorno="27" mese="1" anno="2017"/>
+                <tipo></tipo>
+            </massaggio>
+        </servizi>
+    </spa>
+    <ristorante>
+        <nome>Lucia</nome>
+        <cognome>Bianchi</cognome>
+        <codice_fisc>LCIBNC37A84W285B</codice_fisc>
+        <indirizzo>
+            <via>Grappa</via>
+            <numero>12</numero>
+            <citta>Creazzo</citta>
+            <stato>Italia</stato>
+            <prov>VI</prov>
+        </indirizzo>
+        <scontrini>
+            <scontrino>
+                <data min="30" ora="11" giorno="16" mese="2" anno="2017"/>
+                <persone>3</persone>
+                <totale>146.9</totale>
+            </scontrino>
+            <scontrino>
+                <data min="0" ora="20" giorno="16" mese="2" anno="2017"/>
+                <persone>4</persone>
+                <totale>266.9</totale>
+            </scontrino>
+        </scontrini>
+    </ristorante>
+    <ristorante>
+        <nome>Antony</nome>
+        <cognome>Brown</cognome>
+        <codice_fisc>ANTBRW47F95T254G</codice_fisc>
+        <indirizzo>
+            <via>Oxford Street</via>
+            <numero>44</numero>
+            <citta>Mayfair</citta>
+            <stato>Inghilterra</stato>
+            <prov>-</prov>
+        </indirizzo>
+        <scontrini>
+            <scontrino>
+                <data min="20" ora="12" giorno="9" mese="2" anno="2017"/>
+                <persone>2</persone>
+                <totale>134.5</totale>
+            </scontrino>
+        </scontrini>
+    </ristorante>
+    <hotel>
+        <nome>Alessandro</nome>
+        <cognome>Agostino</cognome>
+        <codice_fisc>ALSAGS32Q09B672S</codice_fisc>
+        <indirizzo>
+            <via>Santa Lucia</via>
+            <numero>76</numero>
+            <citta>Roma</citta>
+            <stato>Italia</stato>
+            <prov>RM</prov>
+        </indirizzo>
+        <date>
+            <data min="0" ora="14" giorno="22" mese="2" anno="2017"/>
+            <data min="0" ora="11" giorno="25" mese="2" anno="2017"/>
+        </date>
+        <servizi>
+            <Piscina>
+                <data min="0" ora="15" giorno="24" mese="2" anno="2017"/>
+                <tipo></tipo>
+            </Piscina>
+        </servizi>
+        <scontrini>
+            <scontrino>
+                <data min="10" ora="12" giorno="23" mese="2" anno="2017"/>
+                <persone>3</persone>
+                <totale>254</totale>
+            </scontrino>
+        </scontrini>
+    </hotel>
+</clienti>
