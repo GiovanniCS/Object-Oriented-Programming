@@ -27,8 +27,8 @@ Login with administrator, premium and base user
 Detailed view of a client
 ![alt text](https://user-images.githubusercontent.com/25981629/37532514-872b6400-293f-11e8-8e05-7dfcd77b5f46.png)
 
-Adminstartor's view of users allowed to log in
+Adminstrator's view of users allowed to log in
 ![alt text](https://user-images.githubusercontent.com/25981629/37532510-86fee11e-293f-11e8-8bfa-7996ccc659f6.png)
 
-This allow administratos to search through hotel's clients
+This allow administrators to search through hotel's clients
 ![alt text](https://user-images.githubusercontent.com/25981629/37532509-86d31e80-293f-11e8-948c-c4c29ca8e9ce.png)
