@@ -30,5 +30,5 @@ Detailed view of a client
 Adminstrator's view of users allowed to log in
 ![alt text](https://user-images.githubusercontent.com/25981629/37532510-86fee11e-293f-11e8-8bfa-7996ccc659f6.png)
 
-This allow administrators to search through hotel's clients
+This allows administrators to search through hotel's clients
 ![alt text](https://user-images.githubusercontent.com/25981629/37532509-86d31e80-293f-11e8-948c-c4c29ca8e9ce.png)
