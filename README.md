@@ -21,3 +21,4 @@ build the project (this may take some minutes) and start Client Overview
 make
 ./progetto
 ```
+![alt text](https://user-images.githubusercontent.com/25981629/37532517-87566d76-293f-11e8-82e6-738fc072079b.png)
