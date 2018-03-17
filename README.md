@@ -14,7 +14,7 @@ cd Object-Oriented-Programming/progetto
 ```
 generate the makefile using qmake
 ```
-qmake -project
+qmake
 ```
 build the project (this may take some minutes) and start Client Overview
 ```
