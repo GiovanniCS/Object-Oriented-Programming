@@ -1,6 +1,6 @@
-# OOP course's project
+# Project for OOP course
 # Client Overview
-In this repository i have pushed my OOP course's project, second year of Bachelor's degree in CS at Padua University. 
+In this repository i have pushed my project for the OOP course, second year of Bachelor degree in CS at Padua University. 
 This program, Client Overview, should track the client inside a generic hotel and calculate the money they have to pay.
 ## Getting Started
 Make sure you have QT library and qmake installed
